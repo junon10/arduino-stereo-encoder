@@ -13,6 +13,10 @@
 - **Arduino IDE**: To compile the sketch.
 - **Board Compatibility**: Uno, Nano, and compatibles.
 
+## Schematic
+
+<img src="schematic/schematic.png" />
+
 ## Author
 
 - **Junon M.**  
