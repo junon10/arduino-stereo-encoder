@@ -5,6 +5,7 @@
   Author: Junon M
   Hardware: Uno or Nano
   Pilot signal generated with +-2.5 Hz precision
+  License: GPLv3
 */
 
 //------------------------------------------------------------------------------
