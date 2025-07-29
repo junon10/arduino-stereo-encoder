@@ -6,7 +6,7 @@
 
 ## Features
 
-- **Frequency Precision**: +-2.5Hz to pilot signal
+- **Frequency Precision**: +-2.5Hz for pilot signal
 
 ## Requirements
 
